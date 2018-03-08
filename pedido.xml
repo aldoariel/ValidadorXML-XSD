@@ -14,9 +14,5 @@ xsi:noNamespaceSchemaLocation="pedido.xsd">
     <quantidade>1</quantidade>
     <preco>10.90</preco>
   </item>
-  <item>
-    <produto>Apostila Javascript</produto>
-    <quantidade>1</quantidade>
-    <preco>9.90</preco>
-  </item>
+ 
 </pedido>

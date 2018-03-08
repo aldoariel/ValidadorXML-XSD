@@ -1,0 +1,8 @@
+<lectura>
+  <Lectura cliente="juan">
+    <destino>RUTA1</destino>
+  </Lectura>
+  <Lectura cliente="maria">
+    <destino>RUTA2</destino>
+  </Lectura>
+</lectura>
